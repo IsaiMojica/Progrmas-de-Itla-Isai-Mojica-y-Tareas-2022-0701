@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678305221 source:c:\users\mojica\documents\programacion\capitulo 9 pregramas resueltos\9.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
