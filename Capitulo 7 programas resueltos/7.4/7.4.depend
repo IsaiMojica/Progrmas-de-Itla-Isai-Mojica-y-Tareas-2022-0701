@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678352644 source:c:\users\mojica\documents\programacion\capitulo 7 programas resueltos\7.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
