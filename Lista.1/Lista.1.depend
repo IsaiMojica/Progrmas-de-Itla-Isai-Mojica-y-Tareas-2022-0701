@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678462332 source:c:\users\mojica\documents\programacion\lista.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
