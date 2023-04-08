@@ -1,0 +1,9 @@
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\bin\Debug\CalculadorFR.exe.config
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\bin\Debug\CalculadorFR.exe
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\bin\Debug\CalculadorFR.pdb
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.exe
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.pdb
+c:\users\francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.Calculadora.resources
+C:\Users\Francisco\documents\visual studio 2012\Projects\CalculadorFR\CalculadorFR\obj\Debug\CalculadorFR.csprojResolveAssemblyReference.cache
