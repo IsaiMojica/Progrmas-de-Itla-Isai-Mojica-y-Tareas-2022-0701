@@ -1,0 +1,11 @@
+C:\Users\Jamal\source\repos\Programa 2.5\bin\Debug\Programa 2.5.exe.config
+C:\Users\Jamal\source\repos\Programa 2.5\bin\Debug\Programa 2.5.exe
+C:\Users\Jamal\source\repos\Programa 2.5\bin\Debug\Programa 2.5.pdb
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa_2._5.Form1.resources
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa_2._5.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.exe
+C:\Users\Jamal\source\repos\Programa 2.5\obj\Debug\Programa 2.5.pdb
