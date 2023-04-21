@@ -1,0 +1,6 @@
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa 4.2.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa 4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa_4._2.Form1.resources
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa_4._2.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa 4.2.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 4.2\obj\Debug\Programa 4.2.csproj.CoreCompileInputs.cache
