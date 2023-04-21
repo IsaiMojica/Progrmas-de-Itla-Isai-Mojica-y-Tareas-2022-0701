@@ -1,0 +1,13 @@
+C:\Users\Jamal\source\repos\Programa 5.4\bin\Debug\Programa 5.4.exe.config
+C:\Users\Jamal\source\repos\Programa 5.4\bin\Debug\Programa 5.4.exe
+C:\Users\Jamal\source\repos\Programa 5.4\bin\Debug\Programa 5.4.pdb
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa_5._4.Form1.resources
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa_5._4.Form2.resources
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa_5._4.Form3.resources
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa_5._4.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.exe
+C:\Users\Jamal\source\repos\Programa 5.4\obj\Debug\Programa 5.4.pdb
