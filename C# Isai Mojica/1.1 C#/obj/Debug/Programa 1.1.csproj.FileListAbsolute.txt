@@ -1,0 +1,11 @@
+C:\Users\Jamal\source\repos\Programa 1.1\bin\Debug\Programa 1.1.exe.config
+C:\Users\Jamal\source\repos\Programa 1.1\bin\Debug\Programa 1.1.exe
+C:\Users\Jamal\source\repos\Programa 1.1\bin\Debug\Programa 1.1.pdb
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa_1._1.Form1.resources
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa_1._1.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.exe
+C:\Users\Jamal\source\repos\Programa 1.1\obj\Debug\Programa 1.1.pdb
