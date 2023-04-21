@@ -1,0 +1,11 @@
+C:\Users\Jamal\source\repos\Programa 6.2\bin\Debug\Programa 6.2.exe.config
+C:\Users\Jamal\source\repos\Programa 6.2\bin\Debug\Programa 6.2.exe
+C:\Users\Jamal\source\repos\Programa 6.2\bin\Debug\Programa 6.2.pdb
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa_6._2.Form1.resources
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa_6._2.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.exe
+C:\Users\Jamal\source\repos\Programa 6.2\obj\Debug\Programa 6.2.pdb
