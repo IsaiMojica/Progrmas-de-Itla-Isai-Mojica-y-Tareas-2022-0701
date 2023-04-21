@@ -1,0 +1,11 @@
+C:\Users\Jamal\source\repos\Programa 1.9\bin\Debug\Programa 1.9.exe.config
+C:\Users\Jamal\source\repos\Programa 1.9\bin\Debug\Programa 1.9.exe
+C:\Users\Jamal\source\repos\Programa 1.9\bin\Debug\Programa 1.9.pdb
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.csproj.AssemblyReference.cache
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa_1._9.Form1.resources
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa_1._9.Properties.Resources.resources
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.exe
+C:\Users\Jamal\source\repos\Programa 1.9\obj\Debug\Programa 1.9.pdb
